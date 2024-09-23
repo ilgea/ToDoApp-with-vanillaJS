@@ -6,7 +6,7 @@
   - [Problem Statement](#problem-statement)
   - [Project Skeleton](#project-skeleton)
   - [Expected Outcome](#expected-outcome)
-  - [Links](#links)
+  - [Link](#link)
   - [Objective](#objective)
 
 ## Description
@@ -36,7 +36,7 @@ Project aims to create a simple To-Do App.
 <a href="#"><img src="project-todo.gif" alt="screenshot"></a>
 </p>
 
-## Links
+## Link
 
 <p align="left">
 <b>Check The Live Website ➡️</b> <a href="https://ilgea.github.io/todoapp-with-vanillaJS/" target="_blank">Live Website</a>
