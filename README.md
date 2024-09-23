@@ -30,7 +30,7 @@ Project aims to create a simple To-Do App.
 ## Links
 
 <p align="left">
-<b>Check The Live Website ➡️</b> <a href="#">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://ilgea.github.io/todoapp-with-vanillaJS/">Live Website</a>
 </p>
 <hr>
 
